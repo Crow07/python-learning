@@ -1,0 +1,2 @@
+network3 172.31.1.3 snmpv4 public testcpu 2.1 64 H5C S6802
+network4 172.31.1.4 snmpv5 public testcpu 2.1 64 H6C S6803
